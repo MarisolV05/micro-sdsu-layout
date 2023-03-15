@@ -1,0 +1,50 @@
+*{
+    outline: 1px solid red;
+}
+body {
+    margin: 0;
+}
+nav ul li {
+    display: inline-block;
+}
+nav a {
+    text-decoration: none;
+    padding-left: 10px;
+}
+
+.promo-div {
+    background: blue;
+    color: white;
+    height: 40px;
+    text-align: center;
+    
+}
+.main-image{
+    height: 500px;
+    background: red;
+
+}
+.main-image img{
+    width: 100%;
+}
+.product-categories,.service-cards {
+    text-align: center;
+    margin-top: 100px;
+}
+.product-categories div {
+    display: inline-block;
+    height: 100px;
+}
+.service-cards div {
+    display: inline-block;
+    width: 23%;
+}
+.service-cards div img {
+    width: 200px;
+    height: 200px;
+}
+
+
+
+
+
